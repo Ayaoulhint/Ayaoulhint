@@ -1,8 +1,8 @@
 
 
-  ![MasterHead](
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV6aDdqZmFtM2RqajV1czhmdDE4MWJuNWVxcnZlOWkycTU4dnp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.webp
-)
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV6aDdqZmFtM2RqajV1czhmdDE4MWJuNWVxcnZlOWkycTU4dnp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.webp" alt="MasterHead">
+</div>
 
 
 
@@ -11,7 +11,6 @@ https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV6aDdqZmFtM2RqajV1czhmdDE4MW
 
 
 ## 🚀 About Me
-<h2>Hey there! 👋</h2>
 <div align="center">
   <p>I'm a passionate software engineering student focused on web development and frontend magic. 🌐✨</p>
   <p>Always eager to learn and grow, I'm on a mission to create stunning, user-friendly web experiences. 🚀</p>
