@@ -13,7 +13,7 @@
 
 ## Other Common Github Profile Sections
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: right; justify-content: space-between;">
   <div style="flex: 1;">
     <p>👩‍💻 <strong>I'm currently working on...</strong> A website with Vue.js at Dardigital</p>
     <p>🧠 <strong>I'm currently learning...</strong> JavaScript</p>
