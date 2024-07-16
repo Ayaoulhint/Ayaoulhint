@@ -17,3 +17,19 @@
   <p>Let's connect and make the web a better place, one line of code at a time! 💻💡</p>
 </div>
 
+
+## Other Common Github Profile Sections
+<div align="center">
+  <p>👩‍💻 <strong>I'm currently working on...</strong></p>
+  <p>A website with Vue.js at Dardigital</p>
+  
+  <p>🧠 <strong>I'm currently learning...</strong></p>
+  <p>JavaScript</p>
+  
+  <p>📫 <strong>How to reach me...</strong></p>
+  <p>oulhintaya702@gmail.com</p>
+  
+  <p>⚡️ <strong>Fun fact...</strong></p>
+  <p>I'm always excited to learn new technologies and challenge myself with complex problems!</p>
+</div>
+
