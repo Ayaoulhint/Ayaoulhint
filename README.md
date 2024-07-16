@@ -19,7 +19,6 @@
 
 
 ## Other Common Github Profile Sections
-<div align="center">
   <p>👩‍💻 <strong>I'm currently working on...</strong></p>
   <p>A website with Vue.js at Dardigital</p>
   
@@ -31,5 +30,5 @@
   
   <p>⚡️ <strong>Fun fact...</strong></p>
   <p>I'm always excited to learn new technologies and challenge myself with complex problems!</p>
-</div>
+
 
