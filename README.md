@@ -19,20 +19,17 @@
 
 
 ## Other Common Github Profile Sections
-  <p>👩‍💻 <strong>I'm currently working on...</strong>A website with Vue.js at Dardigital</p>
- 
-  
-  <p>🧠 <strong>I'm currently learning...</strong>JavaScript</p>
-  
-  
-  <p>📫 <strong>How to reach me...</strong>oulhintaya702@gmail.com</p>
- 
-  
-  <p>⚡️ <strong>Fun fact...</strong>I love hiking and once climbed a mountain with a laptop to get some work done with a view! 🏔️💻</p>
-
- <div>
+ <div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>👩‍💻 <strong>I'm currently working on...</strong> A website with Vue.js at Dardigital</p>
+    <p>🧠 <strong>I'm currently learning...</strong> JavaScript</p>
+    <p>📫 <strong>How to reach me...</strong> oulhintaya702@gmail.com</p>
+    <p>⚡️ <strong>Fun fact...</strong> I love hiking and once climbed a mountain with a laptop to get some work done with a view! 🏔️💻</p>
+  </div>
+  <div>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV6aDdqZmFtM2RqajV1czhmdDE4MWJuNWVxcnZlOWkycTU4dnp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.webp" alt="MasterHead" style="width: 150px; height: auto;">
   </div>
+</div>
   
  <h3 align="left">Connect with me:</h3>
 <p align="left">
