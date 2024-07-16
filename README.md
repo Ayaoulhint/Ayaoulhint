@@ -19,16 +19,16 @@
 
 
 ## Other Common Github Profile Sections
-  <p>👩‍💻 <strong>I'm currently working on...</strong></p>
-  <p>A website with Vue.js at Dardigital</p>
+  <p>👩‍💻 <strong>I'm currently working on...</strong>A website with Vue.js at Dardigital</p>
+ 
   
-  <p>🧠 <strong>I'm currently learning...</strong></p>
-  <p>JavaScript</p>
+  <p>🧠 <strong>I'm currently learning...</strong>JavaScript</p>
   
-  <p>📫 <strong>How to reach me...</strong></p>
-  <p>oulhintaya702@gmail.com</p>
   
-  <p>⚡️ <strong>Fun fact...</strong></p>
-  <p>I'm always excited to learn new technologies and challenge myself with complex problems!</p>
+  <p>📫 <strong>How to reach me...</strong>oulhintaya702@gmail.com</p>
+ 
+  
+  <p>⚡️ <strong>Fun fact...</strong>I'm always excited to learn new technologies and challenge myself with complex problems!</p>
+ 
 
 
