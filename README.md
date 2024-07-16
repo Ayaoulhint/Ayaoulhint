@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/564x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg" alt="MasterHead">
+  <img src="https://i.pinimg.com/564x/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.jpg" alt="MasterHead">
 </div>
 
 <h1 align="center">Hi 👋, I'm Aya OULHINT</h1>
