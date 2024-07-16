@@ -13,7 +13,7 @@
 
 ## Other Common Github Profile Sections
 
-<div style="display: flex; align-items: right; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1;">
     <p>👩‍💻 <strong>I'm currently working on...</strong> A website with Vue.js at Dardigital</p>
     <p>🧠 <strong>I'm currently learning...</strong> JavaScript</p>
@@ -21,7 +21,7 @@
     <p>⚡️ <strong>Fun fact...</strong> I love hiking and once climbed a mountain with a laptop to get some work done with a view! 🏔️💻</p>
   </div>
   <div style="flex-shrink: 0;">
-    <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" alt="MasterHead" style="width: 150px; height: auto;">
+    <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" alt="Coding" style="width: 150px; height: auto;">
   </div>
 </div>
 
