@@ -30,7 +30,10 @@
   
   <p>⚡️ <strong>Fun fact...</strong>I love hiking and once climbed a mountain with a laptop to get some work done with a view! 🏔️💻</p>
 
-
+ <div>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV6aDdqZmFtM2RqajV1czhmdDE4MWJuNWVxcnZlOWkycTU4dnp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.webp" alt="MasterHead" style="width: 150px; height: auto;">
+  </div>
+  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aya-oulhint-1b8884248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya oulhint" height="30" width="40" /></a>
