@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png" alt="MasterHead">
+  <img src="src="https://i.pinimg.com/564x/07/6c/a4/076ca4ab40fb5f03c83021bdea86443d.jpg"" alt="MasterHead">
 </div>
 
 <h1 align="center">Hi 👋, I'm Aya OULHINT</h1>
