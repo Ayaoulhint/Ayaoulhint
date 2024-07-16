@@ -21,7 +21,7 @@
     <p>⚡️ <strong>Fun fact...</strong> I love hiking and once climbed a mountain with a laptop to get some work done with a view! 🏔️💻</p>
   </div>
   <div style="flex-shrink: 0;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV6aDdqZmFtM2RqajV1czhmdDE4MWJuNWVxcnZlOWkycTU4dnp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.webp" alt="MasterHead" style="width: 150px; height: auto;">
+    <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" alt="MasterHead" style="width: 150px; height: auto;">
   </div>
 </div>
 
