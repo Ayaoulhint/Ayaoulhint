@@ -28,7 +28,7 @@
   <p>📫 <strong>How to reach me...</strong>oulhintaya702@gmail.com</p>
  
   
-  <p>⚡️ <strong>Fun fact...</strong>I'm always excited to learn new technologies and challenge myself with complex problems!</p>
+  <p>⚡️ <strong>Fun fact...</strong>I love hiking and once climbed a mountain with a laptop to get some work done with a view! 🏔️💻</p>
  
 
 
