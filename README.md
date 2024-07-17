@@ -13,9 +13,6 @@
 <p>Let's connect and make the web a better place, one line of code at a time! 💻💡</p>
 </div>
 
-
-## Other Common Github Profile Sections
-
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
     <p>👩‍💻 <strong>I'm currently working on --> </strong> A website with Vue.js at Dardigital</p>
