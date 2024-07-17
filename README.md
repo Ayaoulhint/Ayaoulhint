@@ -14,7 +14,7 @@
 ## Other Common Github Profile Sections
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1;">
+  <div style="flex: 1; padding-right: 20px;">
     <p>👩‍💻 <strong>I'm currently working on...</strong> A website with Vue.js at Dardigital</p>
     <p>🧠 <strong>I'm currently learning...</strong> JavaScript</p>
     <p>📫 <strong>How to reach me...</strong> oulhintaya702@gmail.com</p>
