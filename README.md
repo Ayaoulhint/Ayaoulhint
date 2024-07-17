@@ -25,12 +25,11 @@
   </div>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/aya-oulhint-1b8884248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aya oulhint" height="30" width="40" /></a>
-  <a href="https://Discordapp.com/users/980396553250426930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayaa" height="30" width="40" /></a>
- <a href="https://x.com/AOulhint39232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x" alt="ayaa" height="30" width="40" /></a>
-</p>
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://effortless-moxie-07b4cd.netlify.app/)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aya-oulhint-1b8884248)[![x](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AOulhint39232)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://Discordapp.com/users/980396553250426930)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
