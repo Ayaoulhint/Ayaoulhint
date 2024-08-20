@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Aya OULHINT</h1>
-<h2 align="center">Web Developer | Frontend Developer</h2>
+<h2 align="center">Web Developer | Fullstack Developer</h2>
 
 ## 🚀 About Me
 
