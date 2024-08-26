@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <p>I'm a passionate software engineering student focused on web development and frontend magic. 🌐✨</p>
+  <p>I'm a passionate software engineering student focused on web development. 🌐✨</p>
 <p>Always eager to learn and grow, I'm on a mission to create stunning, user-friendly web experiences. 🚀</p>
 <p>Let's connect and make the web a better place, one line of code at a time! 💻💡</p>
 </div>
