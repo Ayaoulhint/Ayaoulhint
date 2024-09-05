@@ -16,7 +16,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
     <p>👩‍💻 <strong>I'm currently working on --> </strong> A website with Vue.js at Dardigital</p>
-    <p>🧠 <strong>I'm currently learning --> </strong> JavaScript, Laravel</p>
+    <p>🧠 <strong>I'm currently learning --> </strong> Laravel</p>
     <p>📫 <strong>How to reach me --> </strong> oulhintaya702@gmail.com</p>
     <p>⚡️ <strong>Fun fact --> </strong> I love hiking and once climbed a mountain with a laptop to get some work done with a view! 🏔️💻</p>
   </div>
