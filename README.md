@@ -87,11 +87,15 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
   </a>
-  <!-- Ajout de Django et Docker -->
+  <!-- Ajout de Django, Docker et Next.js -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" alt="docker" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nextdotjs.svg" alt="nextjs" width="40" height="40"/>
+  </a>
 </p>
+
