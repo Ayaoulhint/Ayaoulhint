@@ -18,7 +18,6 @@
     <p>👩‍💻 <strong>I'm currently Studying --> </strong> Software Engineering </p>
     <p>🧠 <strong>I'm currently learning --> </strong> Django</p>
     <p>📫 <strong>How to reach me --> </strong> oulhintaya702@gmail.com</p>
-    <p>⚡️ <strong>Fun fact --> </strong> I love hiking and once climbed a mountain with a laptop to get some work done with a view! 🏔️💻</p>
   </div>
   <div align="center">
     <img src="https://i.pinimg.com/originals/7e/02/d4/7e02d46ace448205435d8c10d66bbceb.gif" alt="Coding" style="width: 500px; height: auto;">
