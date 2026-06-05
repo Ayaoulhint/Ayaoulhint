@@ -7,9 +7,11 @@
 
 I'm a passionate Software Engineer currently pursuing my Master's in Computer Science at the University of East London.
 
-I’m interested in building AI systems, especially agent-based workflows, MVPs, and developer tooling for building and deploying applications. My experience in a finance-related project strengthened my interest in data-driven decision making.
+I’m interested in building AI systems, especially agent-based workflows, MVPs, and developer tools for building and deploying applications.
 
-I also create coding content to share what I'm learning and stay consistent.
+Through personal finance-related projects, I developed an interest in data-driven decision-making.
+
+I also create coding content to share what I’m learning and stay consistent in my growth.
 
 ---
 
